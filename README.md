@@ -4,11 +4,11 @@ In this project, it was created a web page which advertises a product called “
 ## Technologies
 To create this project, the followings technologies were used:
 
--HTML, 
--CSS, 
--Command Line Interface, 
--Git, and 
--GitHub.
+- HTML, 
+- CSS, 
+- Command Line Interface, 
+- Git, and 
+- GitHub.
 
 ## Setup
 To run this project, it is necessary to use a browser.
